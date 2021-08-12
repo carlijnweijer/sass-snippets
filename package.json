@@ -1,0 +1,21 @@
+{
+  "name": "sass-snippets",
+  "displayName": "Sass snippets",
+  "description": "Simple snippet extension for Sass",
+  "version": "0.0.1",
+  "publisher": "carlijnweijer",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "scss",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
