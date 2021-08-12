@@ -2,7 +2,7 @@
   "name": "sass-snippets",
   "displayName": "Sass snippets",
   "description": "Simple snippet extension for Sass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "carlijnweijer",
   "engines": {
     "vscode": "^1.59.0"
