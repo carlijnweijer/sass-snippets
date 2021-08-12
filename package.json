@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.59.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlijnweijer/sass-snippets"
+  },
   "categories": [
     "Snippets"
   ],
